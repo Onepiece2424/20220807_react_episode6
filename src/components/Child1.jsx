@@ -10,6 +10,8 @@ const style = {
 export const Child1 = () => {
   console.log("Child1レンダリング");
 
+  alert("こんにちは");
+
   return (
     <div style={style}>
       <p>Child1</p>
