@@ -1,2 +1,4 @@
 # 20220807_react_episode6
-Created with CodeSandbox
+
+<h2>サンプルアプリ</h2>
+https://csb-b4zp34.netlify.app/
